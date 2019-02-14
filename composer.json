@@ -1,0 +1,13 @@
+{
+  "require": {
+    "filp/whoops": "^2.3",
+    "php-curl-class/php-curl-class": "^8.5",
+    "phpoffice/phpspreadsheet": "^1.6"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}
